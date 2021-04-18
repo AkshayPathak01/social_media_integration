@@ -1,6 +1,6 @@
-# social_media_integration
+# Sign In App
 
-A new Flutter project.
+Simple basic authentication app designed in flutter.
 
 ## Running the project with Firebase
 
